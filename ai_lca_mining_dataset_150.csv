@@ -1,0 +1,151 @@
+Material_ID,Material_Type,Source_Process,Quantity_kg,Purity_%,Contaminants,Energy_Content_MJ,Toxicity_Score,Carbon_Footprint_kgCO2,Recyclable,Suggested_Reuse
+M001,Bauxite Residue,Ore Processing,970,29.79,Cyanide,94.2,3.5,160.3,No,Safe disposal required
+M002,Aluminium Scrap,Galvanizing,2277,92.77,"Chlorides, Fluoride",261.8,4.9,313.5,Yes,Reuse in battery production
+M003,Chromite Waste,Steel Manufacturing,2689,53.02,Sulfates,275.2,7.7,838.6,Yes,Reprocess to recover lead
+M004,Zinc Ash,Battery Recycling,1973,33.07,"Sodium Hydroxide, Plastic",567.7,5.0,458.1,No,Safe disposal required
+M005,Aluminium Scrap,Casting,356,23.03,"Arsenic, Paint",520.1,4.8,64.9,No,Safe disposal required
+M006,Iron Scrap,Electroplating,441,96.52,Sulfates,505.5,5.8,160.0,Yes,Re-smelt for rebar
+M007,Steel Slag,Galvanizing,594,74.67,"Fluoride, Sulfates, Cadmium",87.2,7.3,132.1,Yes,Compress into briquettes for reuse
+M008,Zinc Ash,Gold Mining,2426,27.21,Chromium,514.0,3.1,910.3,No,Safe disposal required
+M009,Steel Slag,Electroplating,175,78.09,"Cyanide, Sodium Hydroxide",121.6,8.9,21.2,No,Safe disposal required
+M010,Lead Slag,Galvanizing,2280,87.53,"Sodium Hydroxide, Cadmium",595.0,3.6,504.3,Yes,Reprocess to recover zinc
+M011,Tailings,Battery Recycling,2148,80.5,"Paint, Chlorides",401.0,8.0,299.2,Yes,Solidify for construction fill
+M012,Zinc Ash,Furnace Operation,456,81.57,"Mercury, Chromium",431.2,4.1,127.3,Yes,Compress into briquettes for reuse
+M013,Nickel Dust,Ore Processing,1675,43.63,"Chromium, Silicates, Sodium Hydroxide",584.2,5.8,606.7,No,Safe disposal required
+M014,Lead Slag,Furnace Operation,2696,35.32,"Chlorides, Plastic",379.3,8.7,563.4,No,Safe disposal required
+M015,Copper Slag,Casting,954,80.19,"Plastic, Arsenic",126.0,3.6,310.5,Yes,Use in road construction
+M016,Iron Scrap,Battery Recycling,2648,63.55,"Sulfates, Sodium Hydroxide, Plastic",369.4,4.5,1011.0,Yes,Detoxification for backfill use
+M017,Iron Scrap,Gold Mining,395,13.24,Cyanide,502.1,8.2,121.6,No,Safe disposal required
+M018,Copper Slag,Smelting,2144,91.59,"Mercury, Fluoride, Paint",111.3,7.1,850.0,Yes,Use in cement production
+M019,Zinc Ash,Furnace Operation,190,71.57,"Lead, Sodium Hydroxide, Sulfates",518.8,7.8,25.7,Yes,Use in road construction
+M020,Copper Slag,Ore Processing,1757,39.36,"Ammonia, Cyanide, Paint",403.1,7.2,369.7,No,Safe disposal required
+M021,Copper Slag,Ore Processing,1833,84.42,"Cadmium, Plastic, Sodium Hydroxide",141.4,6.9,383.5,Yes,Reprocess to recover lead
+M022,Steel Slag,Furnace Operation,169,23.44,"Sulfates, Oil Residue, Sodium Hydroxide",379.3,7.2,32.0,No,Safe disposal required
+M023,Tailings,Furnace Operation,2412,92.81,Arsenic,525.0,5.7,944.8,Yes,Reprocess to recover zinc
+M024,Aluminium Scrap,Alumina Refining,905,79.74,"Fluoride, Plastic",224.0,6.6,275.9,Yes,Use in road construction
+M025,Bauxite Residue,Battery Recycling,1301,58.18,"Cyanide, Silicates, Mercury",187.4,6.7,395.5,No,Safe disposal required
+M026,Tailings,Steel Manufacturing,1112,82.19,"Plastic, Cyanide",141.1,9.4,322.6,No,Safe disposal required
+M027,Bauxite Residue,Furnace Operation,1697,56.97,"Fluoride, Cyanide, Sulfates",325.6,6.6,326.8,No,Safe disposal required
+M028,Aluminium Scrap,Casting,2106,45.66,Cyanide,325.6,7.7,656.3,No,Safe disposal required
+M029,Tailings,Alumina Refining,706,11.85,Arsenic,321.9,6.0,115.4,No,Safe disposal required
+M030,Iron Scrap,Smelting,386,85.81,"Sulfates, Cyanide, Fluoride",403.4,5.5,73.8,No,Safe disposal required
+M031,Chromite Waste,Steel Manufacturing,2276,52.6,"Chromium, Paint",327.0,5.2,863.9,Yes,Detoxification for backfill use
+M032,Copper Slag,Steel Manufacturing,1447,18.46,"Paint, Sodium Hydroxide",284.8,5.3,483.1,No,Safe disposal required
+M033,Tailings,Smelting,391,15.29,Cyanide,435.7,5.1,85.0,No,Safe disposal required
+M034,Aluminium Scrap,Electroplating,2454,14.69,"Sulfates, Lead, Mercury",599.8,3.1,704.4,No,Safe disposal required
+M035,Steel Slag,Alumina Refining,1778,34.7,Chromium,467.9,4.1,269.4,No,Safe disposal required
+M036,Steel Slag,Alumina Refining,790,73.95,Fluoride,75.8,3.3,170.7,Yes,Extract copper for cables
+M037,Chromite Waste,Ore Processing,1201,35.01,"Cyanide, Sodium Hydroxide, Chlorides",64.6,8.6,358.2,No,Safe disposal required
+M038,Nickel Dust,Galvanizing,1784,21.72,Ammonia,86.9,7.4,274.4,No,Safe disposal required
+M039,Copper Slag,Galvanizing,2065,56.06,"Sulfates, Paint",400.9,5.6,250.1,Yes,Safe landfill with encapsulation
+M040,Tailings,Steel Manufacturing,891,10.1,Chromium,335.5,5.6,353.4,No,Safe disposal required
+M041,Lead Slag,Smelting,1985,16.7,"Arsenic, Lead",562.6,7.7,321.7,No,Safe disposal required
+M042,Tailings,Gold Mining,2589,49.56,"Cyanide, Chlorides",186.3,7.8,882.5,No,Safe disposal required
+M043,Chromite Waste,Electroplating,644,85.77,"Paint, Chromium",299.7,3.9,233.3,Yes,Solidify for construction fill
+M044,Zinc Ash,Electroplating,1013,90.61,"Oil Residue, Plastic, Arsenic",236.5,3.8,360.2,Yes,Use in cement production
+M045,Tailings,Casting,1596,37.15,"Fluoride, Paint, Ammonia",388.0,6.8,486.3,No,Safe disposal required
+M046,Nickel Dust,Ore Processing,2096,66.13,"Arsenic, Sodium Hydroxide, Oil Residue",301.6,6.3,484.6,Yes,Re-smelt for rebar
+M047,Lead Slag,Electroplating,780,60.47,"Sulfates, Paint, Arsenic",459.8,7.3,87.3,Yes,Reprocess to recover zinc
+M048,Copper Slag,Electroplating,1960,41.78,"Sodium Hydroxide, Cadmium, Ammonia",572.8,6.3,393.6,No,Safe disposal required
+M049,Steel Slag,Gold Mining,2378,28.26,"Silicates, Chromium, Fluoride",317.0,3.2,446.1,No,Safe disposal required
+M050,Tailings,Smelting,1996,34.58,"Cyanide, Fluoride, Sodium Hydroxide",435.6,8.6,670.6,No,Safe disposal required
+M051,Bauxite Residue,Alumina Refining,962,33.82,"Plastic, Paint",183.5,9.4,246.7,No,Safe disposal required
+M052,Aluminium Scrap,Smelting,2510,65.47,Oil Residue,507.7,5.9,812.8,Yes,Reprocess to recover lead
+M053,Tailings,Galvanizing,1694,94.84,"Silicates, Ammonia",269.0,6.7,263.3,Yes,Safe landfill with encapsulation
+M054,Nickel Dust,Gold Mining,1074,85.87,Chromium,296.7,7.5,241.9,Yes,Use in cement production
+M055,Chromite Waste,Casting,273,79.31,Arsenic,160.9,5.8,51.9,Yes,Detoxification for backfill use
+M056,Lead Slag,Electroplating,219,16.41,Oil Residue,247.3,8.3,81.8,No,Safe disposal required
+M057,Aluminium Scrap,Gold Mining,2037,75.26,Ammonia,178.8,5.9,307.5,Yes,Use in road construction
+M058,Zinc Ash,Gold Mining,991,81.67,Lead,500.4,6.2,111.7,Yes,Remelt to make sheet metal
+M059,Zinc Ash,Furnace Operation,2323,79.85,"Mercury, Plastic, Lead",358.6,7.3,844.7,Yes,Reuse in battery production
+M060,Bauxite Residue,Galvanizing,2633,93.64,Sodium Hydroxide,77.8,3.5,822.0,Yes,Use in cement production
+M061,Aluminium Scrap,Casting,432,30.13,"Fluoride, Oil Residue",125.5,5.0,109.1,No,Safe disposal required
+M062,Nickel Dust,Furnace Operation,487,87.88,"Sodium Hydroxide, Oil Residue, Sulfates",537.6,6.7,123.7,Yes,Extract copper for cables
+M063,Aluminium Scrap,Ore Processing,1785,41.37,Cyanide,365.1,8.5,429.1,No,Safe disposal required
+M064,Copper Slag,Smelting,1132,63.7,"Chromium, Silicates",256.5,9.0,436.2,Yes,Solidify for construction fill
+M065,Zinc Ash,Galvanizing,1645,88.55,"Fluoride, Lead, Paint",360.9,8.4,540.0,Yes,Reprocess to recover lead
+M066,Nickel Dust,Steel Manufacturing,134,17.69,"Silicates, Plastic, Fluoride",417.9,9.2,15.1,No,Safe disposal required
+M067,Bauxite Residue,Steel Manufacturing,2718,86.15,"Arsenic, Cadmium",44.6,8.7,966.5,Yes,Solidify for construction fill
+M068,Aluminium Scrap,Gold Mining,2124,83.31,Lead,351.1,4.4,690.2,Yes,Extract copper for cables
+M069,Lead Slag,Battery Recycling,2828,57.91,"Sulfates, Lead, Cadmium",498.2,7.1,1079.5,Yes,Use in cement production
+M070,Steel Slag,Galvanizing,801,38.84,Plastic,370.2,6.2,181.7,No,Safe disposal required
+M071,Lead Slag,Casting,1352,24.22,Fluoride,597.8,3.8,180.7,No,Safe disposal required
+M072,Iron Scrap,Galvanizing,2521,47.11,"Cyanide, Arsenic, Mercury",307.9,4.9,755.6,No,Safe disposal required
+M073,Nickel Dust,Battery Recycling,915,28.14,"Plastic, Sodium Hydroxide, Cadmium",192.6,8.9,208.7,No,Safe disposal required
+M074,Tailings,Casting,1363,66.12,"Sulfates, Cadmium",263.6,8.0,163.2,Yes,Reprocess to recover zinc
+M075,Copper Slag,Alumina Refining,2597,13.25,Fluoride,457.5,6.3,303.9,No,Safe disposal required
+M076,Zinc Ash,Furnace Operation,774,27.98,"Plastic, Chromium, Cyanide",412.1,4.6,194.3,No,Safe disposal required
+M077,Copper Slag,Casting,414,32.28,Chromium,560.3,8.8,79.7,No,Safe disposal required
+M078,Copper Slag,Electroplating,1180,24.19,"Chromium, Sodium Hydroxide, Arsenic",489.5,7.5,294.9,No,Safe disposal required
+M079,Nickel Dust,Smelting,550,34.73,Silicates,216.2,4.9,156.0,No,Safe disposal required
+M080,Bauxite Residue,Gold Mining,1297,38.66,"Paint, Fluoride, Arsenic",279.6,9.1,421.3,No,Safe disposal required
+M081,Chromite Waste,Electroplating,2226,89.05,Chromium,527.2,5.4,237.8,Yes,Reprocess to recover lead
+M082,Nickel Dust,Gold Mining,1993,18.79,"Cadmium, Plastic, Mercury",445.2,5.4,394.8,No,Safe disposal required
+M083,Tailings,Galvanizing,2619,96.29,"Arsenic, Fluoride",245.2,8.6,674.0,Yes,Re-smelt for rebar
+M084,Bauxite Residue,Gold Mining,864,41.6,"Chlorides, Chromium",511.2,3.5,344.8,No,Safe disposal required
+M085,Copper Slag,Gold Mining,2141,53.42,Cyanide,250.8,3.8,298.7,No,Safe disposal required
+M086,Aluminium Scrap,Alumina Refining,1171,58.06,Sodium Hydroxide,442.8,4.7,344.9,Yes,Re-smelt for rebar
+M087,Tailings,Galvanizing,128,91.15,Fluoride,94.5,7.9,15.5,Yes,Reuse in battery production
+M088,Nickel Dust,Alumina Refining,1807,22.88,"Paint, Fluoride",340.0,8.4,401.4,No,Safe disposal required
+M089,Chromite Waste,Furnace Operation,497,12.38,Chromium,583.5,7.9,99.4,No,Safe disposal required
+M090,Copper Slag,Galvanizing,1392,96.34,"Sulfates, Chromium, Ammonia",380.8,7.3,243.9,Yes,Reuse in battery production
+M091,Steel Slag,Galvanizing,1942,82.5,"Mercury, Chromium",46.6,6.0,390.6,Yes,Detoxification for backfill use
+M092,Copper Slag,Battery Recycling,973,13.24,Fluoride,208.8,4.2,100.7,No,Safe disposal required
+M093,Bauxite Residue,Casting,2381,30.5,"Sulfates, Lead, Cyanide",81.1,5.2,929.1,No,Safe disposal required
+M094,Zinc Ash,Electroplating,2742,59.58,Mercury,401.0,8.2,1059.6,Yes,Use in cement production
+M095,Lead Slag,Furnace Operation,2606,72.21,"Sodium Hydroxide, Mercury",77.6,4.4,326.1,Yes,Remelt to make sheet metal
+M096,Copper Slag,Galvanizing,2621,88.1,Paint,43.3,8.4,602.6,Yes,Solidify for construction fill
+M097,Chromite Waste,Galvanizing,271,70.25,Sulfates,356.1,4.8,58.9,Yes,Reprocess to recover zinc
+M098,Zinc Ash,Casting,391,77.08,"Sulfates, Ammonia",294.3,5.1,104.3,Yes,Reprocess to recover lead
+M099,Tailings,Ore Processing,2636,66.83,"Cyanide, Fluoride",216.4,9.4,787.7,No,Safe disposal required
+M100,Copper Slag,Battery Recycling,1013,19.83,"Oil Residue, Cadmium",430.4,9.2,186.0,No,Safe disposal required
+M101,Iron Scrap,Furnace Operation,2606,14.29,"Fluoride, Sodium Hydroxide, Plastic",257.6,8.7,290.9,No,Safe disposal required
+M102,Iron Scrap,Ore Processing,1948,50.1,"Silicates, Fluoride",143.9,8.1,535.8,Yes,Reuse in battery production
+M103,Chromite Waste,Smelting,955,50.32,Cyanide,392.0,8.8,129.4,No,Safe disposal required
+M104,Tailings,Casting,2096,55.55,"Sodium Hydroxide, Paint",282.4,7.5,372.9,Yes,Safe landfill with encapsulation
+M105,Iron Scrap,Battery Recycling,1581,40.42,Sulfates,487.0,6.3,620.1,No,Safe disposal required
+M106,Copper Slag,Gold Mining,1846,92.09,"Lead, Mercury, Sodium Hydroxide",164.1,7.3,426.4,Yes,Remelt to make sheet metal
+M107,Steel Slag,Gold Mining,2474,92.3,"Oil Residue, Lead, Mercury",235.6,6.4,471.6,Yes,Use in cement production
+M108,Lead Slag,Furnace Operation,2282,27.29,"Sodium Hydroxide, Chlorides",233.0,3.1,887.8,No,Safe disposal required
+M109,Steel Slag,Alumina Refining,1867,87.04,"Mercury, Paint, Sulfates",238.3,7.6,508.9,Yes,Use in cement production
+M110,Copper Slag,Steel Manufacturing,1592,19.42,"Cyanide, Silicates",126.3,6.2,289.0,No,Safe disposal required
+M111,Zinc Ash,Alumina Refining,1037,27.1,"Ammonia, Cadmium, Cyanide",324.6,8.4,393.6,No,Safe disposal required
+M112,Chromite Waste,Electroplating,2513,84.16,Arsenic,124.3,6.0,869.0,Yes,Use in cement production
+M113,Zinc Ash,Ore Processing,2189,84.04,"Chlorides, Lead",208.5,6.8,664.3,Yes,Solidify for construction fill
+M114,Lead Slag,Furnace Operation,2416,67.66,Ammonia,375.7,8.4,944.2,Yes,Detoxification for backfill use
+M115,Chromite Waste,Alumina Refining,625,41.67,"Sulfates, Lead",529.5,8.2,179.4,No,Safe disposal required
+M116,Copper Slag,Gold Mining,1024,50.25,Arsenic,391.3,5.0,306.3,Yes,Solidify for construction fill
+M117,Bauxite Residue,Electroplating,1741,79.31,Cadmium,61.5,4.5,239.3,Yes,Use in cement production
+M118,Lead Slag,Casting,2365,92.53,"Cyanide, Sulfates",594.9,8.5,695.6,No,Safe disposal required
+M119,Steel Slag,Ore Processing,1446,73.33,"Ammonia, Cyanide",457.7,3.3,443.1,No,Safe disposal required
+M120,Tailings,Smelting,1233,62.57,"Plastic, Lead",161.3,3.2,426.2,Yes,Use in road construction
+M121,Copper Slag,Furnace Operation,761,11.52,Plastic,233.5,5.5,302.9,No,Safe disposal required
+M122,Nickel Dust,Casting,1928,97.83,"Oil Residue, Cadmium, Chromium",283.5,7.7,555.7,Yes,Detoxification for backfill use
+M123,Iron Scrap,Furnace Operation,2784,62.24,Chlorides,166.7,7.5,602.3,Yes,Detoxification for backfill use
+M124,Lead Slag,Ore Processing,707,97.53,"Chromium, Silicates, Lead",154.8,7.8,160.9,Yes,Reuse in battery production
+M125,Aluminium Scrap,Furnace Operation,140,22.77,"Sodium Hydroxide, Paint, Arsenic",220.7,8.6,45.6,No,Safe disposal required
+M126,Bauxite Residue,Furnace Operation,1839,58.52,Silicates,50.4,8.1,622.4,Yes,Reprocess to recover zinc
+M127,Iron Scrap,Ore Processing,1803,10.92,"Lead, Silicates, Ammonia",328.6,8.6,392.6,No,Safe disposal required
+M128,Zinc Ash,Battery Recycling,2502,85.72,"Oil Residue, Cadmium, Lead",376.0,9.2,532.7,Yes,Use in cement production
+M129,Chromite Waste,Alumina Refining,672,65.49,"Chlorides, Paint, Ammonia",330.2,5.5,123.4,Yes,Reprocess to recover lead
+M130,Copper Slag,Ore Processing,1179,47.66,"Fluoride, Silicates",411.5,8.0,175.0,No,Safe disposal required
+M131,Nickel Dust,Casting,1024,24.11,Fluoride,393.4,9.4,151.8,No,Safe disposal required
+M132,Chromite Waste,Ore Processing,2367,58.59,"Chlorides, Arsenic, Fluoride",450.6,7.0,527.5,Yes,Reuse in battery production
+M133,Chromite Waste,Gold Mining,1134,67.45,Lead,361.9,3.9,189.4,Yes,Detoxification for backfill use
+M134,Bauxite Residue,Ore Processing,2825,28.94,"Fluoride, Plastic",154.1,6.1,628.4,No,Safe disposal required
+M135,Lead Slag,Casting,2132,92.45,Sodium Hydroxide,137.9,4.5,559.6,Yes,Reprocess to recover lead
+M136,Copper Slag,Ore Processing,1280,26.55,"Fluoride, Ammonia, Cadmium",474.0,6.4,384.2,No,Safe disposal required
+M137,Bauxite Residue,Alumina Refining,2283,67.43,"Silicates, Arsenic, Oil Residue",96.1,3.1,569.4,Yes,Detoxification for backfill use
+M138,Bauxite Residue,Electroplating,2386,32.08,"Silicates, Sulfates, Mercury",56.9,4.9,271.9,No,Safe disposal required
+M139,Chromite Waste,Smelting,507,24.53,Ammonia,576.4,3.9,66.9,No,Safe disposal required
+M140,Chromite Waste,Electroplating,2619,40.23,"Fluoride, Cyanide",404.0,6.0,359.4,No,Safe disposal required
+M141,Zinc Ash,Gold Mining,2108,85.25,Mercury,292.7,5.6,649.6,Yes,Remelt to make sheet metal
+M142,Bauxite Residue,Electroplating,1679,52.51,"Arsenic, Lead, Chlorides",118.2,4.2,258.4,Yes,Detoxification for backfill use
+M143,Zinc Ash,Casting,776,59.52,Oil Residue,529.3,8.9,204.8,Yes,Safe landfill with encapsulation
+M144,Steel Slag,Furnace Operation,2006,65.94,"Arsenic, Cyanide",265.2,5.2,637.3,No,Safe disposal required
+M145,Bauxite Residue,Galvanizing,2484,34.09,Arsenic,540.9,3.0,566.5,No,Safe disposal required
+M146,Iron Scrap,Steel Manufacturing,1054,55.63,Cyanide,459.2,8.9,256.4,No,Safe disposal required
+M147,Bauxite Residue,Battery Recycling,988,34.61,Mercury,259.7,4.6,237.0,No,Safe disposal required
+M148,Chromite Waste,Furnace Operation,2573,98.51,Oil Residue,374.7,5.1,362.8,Yes,Extract copper for cables
+M149,Zinc Ash,Smelting,1736,82.45,Plastic,245.6,3.1,281.8,Yes,Use in cement production
+M150,Steel Slag,Furnace Operation,195,20.82,Lead,406.1,5.8,65.1,No,Safe disposal required

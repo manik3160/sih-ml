@@ -1,0 +1,140 @@
+{
+  "steel_scrap": {
+    "recyclable_products": [
+      "new_steel",
+      "rebar",
+      "automotive_parts",
+      "construction_materials",
+      "appliances"
+    ],
+    "recycling_efficiency": 0.95,
+    "energy_savings": 0.74,
+    "co2_reduction": 0.58,
+    "market_value": 0.8,
+    "processing_complexity": 2,
+    "investment_required": "medium",
+    "market_demand": "high"
+  },
+  "aluminum_scrap": {
+    "recyclable_products": [
+      "new_aluminum",
+      "cans",
+      "foil",
+      "automotive_parts",
+      "packaging"
+    ],
+    "recycling_efficiency": 0.92,
+    "energy_savings": 0.95,
+    "co2_reduction": 0.92,
+    "market_value": 0.9,
+    "processing_complexity": 2,
+    "investment_required": "medium",
+    "market_demand": "very_high"
+  },
+  "copper_scrap": {
+    "recyclable_products": [
+      "electrical_wire",
+      "plumbing",
+      "electronics",
+      "jewelry",
+      "coins"
+    ],
+    "recycling_efficiency": 0.88,
+    "energy_savings": 0.85,
+    "co2_reduction": 0.65,
+    "market_value": 0.95,
+    "processing_complexity": 3,
+    "investment_required": "high",
+    "market_demand": "high"
+  },
+  "iron_ore_tailings": {
+    "recyclable_products": [
+      "cement_additive",
+      "concrete_aggregate",
+      "road_base",
+      "brick_making"
+    ],
+    "recycling_efficiency": 0.7,
+    "energy_savings": 0.6,
+    "co2_reduction": 0.4,
+    "market_value": 0.3,
+    "processing_complexity": 1,
+    "investment_required": "low",
+    "market_demand": "medium"
+  },
+  "slag": {
+    "recyclable_products": [
+      "cement",
+      "concrete_aggregate",
+      "road_construction",
+      "fertilizer"
+    ],
+    "recycling_efficiency": 0.75,
+    "energy_savings": 0.5,
+    "co2_reduction": 0.45,
+    "market_value": 0.4,
+    "processing_complexity": 2,
+    "investment_required": "medium",
+    "market_demand": "medium"
+  },
+  "dust_particles": {
+    "recyclable_products": [
+      "paint_pigments",
+      "ceramics",
+      "filters",
+      "abrasives"
+    ],
+    "recycling_efficiency": 0.6,
+    "energy_savings": 0.3,
+    "co2_reduction": 0.25,
+    "market_value": 0.2,
+    "processing_complexity": 4,
+    "investment_required": "high",
+    "market_demand": "low"
+  },
+  "zinc_scrap": {
+    "recyclable_products": [
+      "galvanized_steel",
+      "batteries",
+      "alloys",
+      "coatings"
+    ],
+    "recycling_efficiency": 0.85,
+    "energy_savings": 0.7,
+    "co2_reduction": 0.6,
+    "market_value": 0.7,
+    "processing_complexity": 3,
+    "investment_required": "high",
+    "market_demand": "medium"
+  },
+  "lead_scrap": {
+    "recyclable_products": [
+      "batteries",
+      "radiation_shielding",
+      "alloys",
+      "pipes"
+    ],
+    "recycling_efficiency": 0.9,
+    "energy_savings": 0.8,
+    "co2_reduction": 0.7,
+    "market_value": 0.6,
+    "processing_complexity": 4,
+    "investment_required": "very_high",
+    "market_demand": "medium"
+  },
+  "nickel_scrap": {
+    "recyclable_products": [
+      "stainless_steel",
+      "batteries",
+      "alloys",
+      "catalysts"
+    ],
+    "recycling_efficiency": 0.88,
+    "energy_savings": 0.75,
+    "co2_reduction": 0.65,
+    "market_value": 0.85,
+    "processing_complexity": 4,
+    "investment_required": "very_high",
+    "market_demand": "high"
+  }
+}

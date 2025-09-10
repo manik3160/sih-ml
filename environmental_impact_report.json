@@ -1,0 +1,103 @@
+{
+  "timestamp": "2025-09-10T20:56:01.566617",
+  "executive_summary": {
+    "leakage_detected": true,
+    "leakage_probability": 0.85,
+    "total_co2e": 0.0,
+    "environmental_cost": 75000.0,
+    "sustainability_score": 7628.749999999999,
+    "risk_level": "MEDIUM"
+  },
+  "current_impacts": {
+    "gas_emissions": {
+      "total_co2e": 0.0,
+      "individual_impacts": {},
+      "impact_categories": {
+        "global_warming": 0.0,
+        "acidification": 0.0,
+        "eutrophication": 0.0,
+        "ozone_depletion": 0.0,
+        "smog_formation": 0.0
+      }
+    },
+    "process_impacts": {
+      "carbon_footprint": 347.0,
+      "energy_consumption": 338.5,
+      "water_consumption": 1120.0,
+      "process_impacts": {
+        "Open_Pit": {
+          "carbon_footprint": 150.0,
+          "energy_consumption": 50.0,
+          "water_consumption": 100.0,
+          "production_rate": 1000
+        },
+        "Processing": {
+          "carbon_footprint": 64.0,
+          "energy_consumption": 96.0,
+          "water_consumption": 400.0,
+          "production_rate": 800
+        },
+        "Smelting": {
+          "carbon_footprint": 90.0,
+          "energy_consumption": 160.0,
+          "water_consumption": 400.0,
+          "production_rate": 200
+        },
+        "Refining": {
+          "carbon_footprint": 18.0,
+          "energy_consumption": 22.5,
+          "water_consumption": 120.0,
+          "production_rate": 150
+        },
+        "Waste_Management": {
+          "carbon_footprint": 25.0,
+          "energy_consumption": 10.0,
+          "water_consumption": 100.0,
+          "production_rate": 500
+        }
+      }
+    },
+    "leakage_costs": {
+      "immediate_impact": 0.0,
+      "long_term_impact": 0.0,
+      "remediation_cost": 50000.0,
+      "regulatory_fines": 25000.0,
+      "total_cost": 75000.0,
+      "cost_breakdown": {
+        "immediate_impact_percent": 0.0,
+        "long_term_impact_percent": 0.0,
+        "remediation_percent": 66.66666666666666,
+        "fines_percent": 33.33333333333333
+      }
+    }
+  },
+  "historical_trends": {
+    "leakage_frequency": 0.0,
+    "environmental_efficiency": 0.8175,
+    "carbon_intensity": 0.0,
+    "energy_efficiency": 0,
+    "water_efficiency": 0.585,
+    "sustainability_score": 7628.749999999999,
+    "improvement_recommendations": [
+      "Low energy efficiency - upgrade equipment and maintenance"
+    ]
+  },
+  "recommendations": [
+    "IMMEDIATE: Implement emergency containment measures",
+    "IMMEDIATE: Deploy additional monitoring sensors",
+    "HIGH PRIORITY: Schedule preventive maintenance",
+    "HIGH PRIORITY: Review and update safety protocols"
+  ],
+  "compliance_status": {
+    "air_quality": "NON-COMPLIANT",
+    "emission_limits": "COMPLIANT",
+    "safety_standards": "NON-COMPLIANT",
+    "overall_status": "NON-COMPLIANT",
+    "violations": [
+      "CO2_ppm exceeds limit: 1200 > 1000",
+      "NOx_ppm exceeds limit: 30 > 25",
+      "Active gas leakage detected"
+    ]
+  },
+  "sustainability_metrics": {}
+}
